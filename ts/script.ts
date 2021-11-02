@@ -1,4 +1,4 @@
-const progress = document.querySelector('.progress')! as HTMLElement;
+const progress = document.querySelector('.progress') as HTMLElement;
 const prev = <HTMLButtonElement>document.querySelector('#prev');
 const next = <HTMLButtonElement>document.querySelector('#next');
 const circles = document.querySelectorAll('.circle');
